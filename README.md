@@ -7,12 +7,11 @@ I mostly work on Cloud service provider - aws , azure , gcp .
 I am new to it , exploring these opportunities.
 
 Funn facts :
-    
-    I love geopolitics.
-    I am learninng German or Deutsch.
-    I play cricket , football , basketball , table-tennies , volleyball ,  badminton .
-    My favourite anime is Blue Lock .
-    Hobbies : Sports , Anime , Reading , Cycling .
+-I love geopolitics.
+-I am learninng German or Deutsch.
+-I play cricket , football , basketball , table-tennies , volleyball ,  badminton .
+-My favourite anime is Blue Lock .
+-Hobbies : Sports , Anime , Reading , Cycling .
     
     
 <!--
